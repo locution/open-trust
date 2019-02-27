@@ -13,9 +13,9 @@ The Open Trust Project
 
 4. Because of 1B), even experts are often wrong; they conflate expertise in their specialty with cross-discipline expertise or “global-scope” expertise. I.e. there isn’t really a way to educate yourself into immunity from the problem. Sometimes bad actors intentionally mislead followers, because incentives are often based on appearing correct rather than earnestly prioritizing truth.
 
-5.Impact magnification due to population growth is likely to make some global concerns fatal (or at least exceedingly reduce potential  quality of life) to the human species (e.g. environment) because corrupting factors are preventing rational and proactive action
+5. Impact magnification due to population growth is likely to make some global concerns fatal (or at least exceedingly reduce potential  quality of life) to the human species (e.g. environment) because corrupting factors are preventing rational and proactive action
 
-6.People want to make good decisions, but for the reasons listed above and many more, we often substitute “easy” for “rigorous”
+6. People want to make good decisions, but for the reasons listed above and many more, we often substitute “easy” for “rigorous”
 
 7. Trust is one social model that people use to make “easy” be rigorous enough to get by. Helping people understand who they can trust within the context of a given problem space would improve this model.
 
