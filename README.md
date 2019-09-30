@@ -35,3 +35,10 @@ The system should ideally:
 1. Weight of trust for atomic data points decreases the older they are
 2. Provide an open framework/protocol that makes it easy to integrate or adopt this system with proprietary platforms
 3. Put pressure on proprietary platforms to adopt
+
+
+# References
+
+* https://computationalsocialnetworks.springeropen.com/articles/10.1186/s40649-016-0027-x
+* https://pdfs.semanticscholar.org/e791/6b7daca648de96c93bcc057912d6b1e81b5c.pdf
+* https://link.springer.com/article/10.1186/s40649-016-0027-x
