@@ -32,10 +32,13 @@ Create a distributed trust network that punishes selfish or partisan actors and 
 
 The system should ideally:
 
-1. Weight of trust for atomic data points decreases the older they are
+1. Weight of trust for atomic data points decreases the older they are (system stays relevant)
 2. Provide an open framework/protocol that makes it easy to integrate or adopt this system with proprietary platforms
 3. Put pressure on proprietary platforms to adopt
 
+# Possible Technology 
+
+* https://holochain.org/
 
 # References
 
